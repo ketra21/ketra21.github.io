@@ -22,16 +22,12 @@ tags:
 
 1. 由于古代的纸张贵重，古籍的排版十分紧凑，少有标点、分段等，千百年间形成了古籍版面特色。但这种【排版对于现代人来说，初读起来十分困难，严重打击学习古典文学的积极性。在此趁着学习《毛诗正义》的契机，对此书文字版面进行富文本处理，突出其结构次第，以便于阅读、查找。毛诗正义文本来源于[维基文库]([https://zh.m.wikisource.org/zh-hans/%E6%AF%9B%E8%A9%A9%E6%AD%A3%E7%BE%A9](https://zh.m.wikisource.org/zh-hans/毛詩正義))；
 2. 不同部分（经、传、笺、音义、疏）的颜色差异化显示；
-   - 经部分为大字，<font size=5 color=3498DB>蓝色</font>****
-
-
-   - 传、笺、音义部分为<font size=4 color=9B59B6>紫色</font>****
-
-
+   - 经部分为大字，<font size=5 color=3498DB>蓝色</font>
+   - 传、笺、音义部分为<font size=4 color=9B59B6>紫色</font>
    - 疏部分为黑色
-
 3. **“传”、“笺”、“音义”、“疏”、“正义”**字作为结构的重要标识，标注为<font size=4 color=1ABC9C>绿色</font>；
-4. 对于**疏**中罗列字词出处多个出处或解释，如内容并列，则作为列表罗列之，并标识为无编号，以便结构清晰；
+4. 对于**疏**中开头引自传、笺等首位词，如`傳「肅肅」至「杙聲」。`进行**加粗**;
+5. 对于**疏**中罗列字词出处多个出处或解释，如内容并列，则作为列表罗列之，并标识为无编号，以便结构清晰；
 
 ## 周南
 
@@ -44,7 +40,9 @@ tags:
 
 <font size=4 color=9B59B6><font size=4 color=1ABC9C>音义</font>（○菟罝，菟又作兔，他故反；罝音子斜反，《說文》子餘反。好，呼報反。）</font>**** 
 
-<font size=4 color=1ABC9C>疏</font><font><b>「《兔罝》三章，章四句」至「眾多」。</b></font>	○<font  size=4 color=1ABC9C>正義</font>曰：作《兔罝》詩者，言后妃之化也。言由后妃《關雎》之化行，則天下之人莫不好德，是故賢人眾多。由賢人多，故兔罝之人猶能恭敬，是后妃之化行也。經三章皆言賢人眾多之事也。經直陳兔罝之人賢，而云多者，笺云：罝兔之人，鄙賤之事，猶能恭敬，則是賢人眾多。是舉微以見著也。《桃夭》言后妃之所致，此言后妃之化，《芣苡》言后妃之美。此三章所美如一，而設文不同者，以《桃夭》承《螽斯》之後，《螽斯》以前皆后妃身事，《桃夭》則論天下昏姻得時，為自近及遠之辭，故云所致也。此《兔罝》又承其後，已在致限，故變言之化，明后妃化之使然也。《芣苡》以后妃事終，故總言之美。其實三者義通，皆是化美所以致也。又上言不妒忌，此言《關雎》之化行，不同者，以《桃夭》說昏姻男女，故言不妒忌，此說賢人眾多，以《關雎》求賢之事，故言《關雎》之化行。《芣苡》則婦人樂有子，故云和平。序者隨義立文，其實總上五篇致此三篇。
+<font size=4 color=1ABC9C>疏</font><font><b>「《兔罝》三章，章四句」至「眾多」。</b></font>
+
+○<font  size=4 color=1ABC9C>正義</font>曰：作《兔罝》詩者，言后妃之化也。言由后妃《關雎》之化行，則天下之人莫不好德，是故賢人眾多。由賢人多，故兔罝之人猶能恭敬，是后妃之化行也。經三章皆言賢人眾多之事也。經直陳兔罝之人賢，而云多者，笺云：罝兔之人，鄙賤之事，猶能恭敬，則是賢人眾多。是舉微以見著也。《桃夭》言后妃之所致，此言后妃之化，《芣苡》言后妃之美。此三章所美如一，而設文不同者，以《桃夭》承《螽斯》之後，《螽斯》以前皆后妃身事，《桃夭》則論天下昏姻得時，為自近及遠之辭，故云所致也。此《兔罝》又承其後，已在致限，故變言之化，明后妃化之使然也。《芣苡》以后妃事終，故總言之美。其實三者義通，皆是化美所以致也。又上言不妒忌，此言《關雎》之化行，不同者，以《桃夭》說昏姻男女，故言不妒忌，此說賢人眾多，以《關雎》求賢之事，故言《關雎》之化行。《芣苡》則婦人樂有子，故云和平。序者隨義立文，其實總上五篇致此三篇。
 
 <font size=5 color=2980B9>肅肅兔罝，椓之丁丁。</font>****
 
@@ -56,7 +54,6 @@ tags:
 
 
 <font size=4 color=9B59B6><font size=4 color=1ABC9C>传</font>（赳赳，武貌。幹，扞也。<font size=4 color=1ABC9C>箋</font>云：幹也，城也，皆以禦難也。此罝兔之人，賢者也，有武力，可任為將帥之德，諸侯可任以國守，扞城其民，折衝禦難於未然。<font size=4 color=1ABC9C>音义</font>○赳，居黝反，《爾雅》云：「勇也。」幹如字，孫炎注云：「幹，楯，所以自蔽扞也。」舊戶旦反，沈音幹。扞，戶旦反。禦，魚呂反。難，乃旦反，下同。任音壬。將，子匠反。帥，色類反，沈所愧反。「可任」，而鴆反，後不音者放此。守，手又反。折，之役反。衝，昌容反。）</font>****
-
 
 <font size=4 color=1ABC9C>疏</font><font><b>「肅肅兔罝，椓之丁丁，赳赳」至「幹城」。</b></font>
 
@@ -125,10 +122,7 @@ tags:
 
 <font size=5 color=3498DB>《兔罝》三章，章四句。</font>****
 
-
-------
-
-### [芣苡](#芣苡)
+## [芣苡](#芣苡)
 
 [返回目录](#目录)
 
@@ -174,30 +168,27 @@ tags:
 
 <font size=5 color=3498DB>采采芣苡，薄言有之。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>有，藏之也。）</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>有，藏之也。）</font> ****
 
 <font size=5 color=3498DB>采采芣苡，薄言掇之。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>掇，拾也。<font size=4 color=1ABC9C>音义</font>○掇，都奪反，一音知劣反。拾音十。）</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>掇，拾也。<font size=4 color=1ABC9C>音义</font>○掇，都奪反，一音知劣反。拾音十。）</font> ****
 
 <font size=5 color=3498DB>采采芣苡，薄言捋之。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>捋，取也。<font size=4 color=1ABC9C>音义</font>○捋，力活反。）</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>捋，取也。<font size=4 color=1ABC9C>音义</font>○捋，力活反。）</font> ****
 
 <font size=5 color=3498DB>采采芣苡，薄言袺之。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>袺，執衽也。<font size=4 color=1ABC9C>音义</font>○袺，音結。衽，入錦反，又而鴆反，衣際也。）</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>袺，執衽也。<font size=4 color=1ABC9C>音义</font>○袺，音結。衽，入錦反，又而鴆反，衣際也。）</font> ****
 
 <font size=5 color=3498DB>采采芣苡，薄言襭之。</font>****
 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>扱衽曰襭。<font size=4 color=1ABC9C>音义</font>○襭，戶結反，一本作「擷」，同。扱，初洽反。）</font> ****
 
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>扱衽曰襭。<font size=4 color=1ABC9C>音义</font>○襭，戶結反，一本作「擷」，同。扱，初洽反。）</font> 
+<font size=4 color=1ABC9C>疏</font><font><b>傳「袺執」至「曰襭」。</b></font>
 
-<font size=4 color=1ABC9C>疏</font><font><b>傳「袺執」至「曰襭」。</b></font>○<font  size=4 color=1ABC9C>正義</font>曰：
+○<font  size=4 color=1ABC9C>正義</font>曰：
 
 - 《釋器》云：「執衽謂之袺。」
 - 孫炎曰：「持衣上衽。」又云：「扱衽謂之襭。」
@@ -233,8 +224,7 @@ tags:
 
 <font size=5 color=3498DB>南有喬木，不可休息。漢有遊女，不可求思。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>興也。南方之木，美喬上竦也。思，辭也。漢上遊女，無求思者。<font size=4 color=1ABC9C>笺</font>云：不可者，本有可道也。木以高其枝葉之故，故人不得就而止息也。興者，喻賢女雖出遊流水之上，人無欲求犯禮者，亦由貞絜使之然。<font size=4 color=1ABC9C>音义</font>○喬木，亦作「橋」，渠驕反，徐又紀橋反。休息並如字，古本皆爾，本或作「休思」，此以意改爾。竦，粟勇反。「流水」，本或作「漢水」。）</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>興也。南方之木，美喬上竦也。思，辭也。漢上遊女，無求思者。<font size=4 color=1ABC9C>笺</font>云：不可者，本有可道也。木以高其枝葉之故，故人不得就而止息也。興者，喻賢女雖出遊流水之上，人無欲求犯禮者，亦由貞絜使之然。<font size=4 color=1ABC9C>音义</font>○喬木，亦作「橋」，渠驕反，徐又紀橋反。休息並如字，古本皆爾，本或作「休思」，此以意改爾。竦，粟勇反。「流水」，本或作「漢水」。）</font> ****
 
 <font size=5 color=3498DB>漢之廣矣，不可泳思。江之永矣，不可方思。</font>****
 
@@ -284,8 +274,7 @@ tags:
 
 <font size=5 color=3498DB>翹翹錯薪，言刈其楚。</font>****
 
-
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>翹翹，薪貌。錯，雜也。<font size=4 color=1ABC9C>笺</font>云：楚，雜薪之中尤翹翹者。我欲刈取之，以喻眾女皆貞絜，我又欲取其尤高絜者。<font size=4 color=1ABC9C>音义</font>○翹，祁遙反，沈其堯反。「尤高絜」者，一本無「絜」字。)</font> 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>翹翹，薪貌。錯，雜也。<font size=4 color=1ABC9C>笺</font>云：楚，雜薪之中尤翹翹者。我欲刈取之，以喻眾女皆貞絜，我又欲取其尤高絜者。<font size=4 color=1ABC9C>音义</font>○翹，祁遙反，沈其堯反。「尤高絜」者，一本無「絜」字。)</font> ****
 
 <font size=5 color=3498DB>之子於歸，言秣其馬。</font>****
 
@@ -328,7 +317,7 @@ tags:
 
 言養馬，是欲致禮餼，示有意求之，但謙不斥耳。
 
-<font size=5 color=3498DB>漢之廣矣，不可泳思。江之永矣，不可方思。翹翹錯薪，言刈其蔞。</font>
+<font size=5 color=3498DB>漢之廣矣，不可泳思。江之永矣，不可方思。翹翹錯薪，言刈其蔞。</font>****
 
 <font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>蔞，草中之翹翹然。<font size=4 color=1ABC9C>音义</font>○蔞，力俱反，馬云：「蔞，蒿也。」郭云：「似艾。」音力侯反。）</font>****
 
@@ -341,17 +330,18 @@ tags:
 
 <font size=5 color=3498DB>之子於歸，言秣其駒。</font>****
 
+<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>五尺以上曰駒。）</font> ****
 
-<font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>五尺以上曰駒。）</font> 
+<font size=4 color=1ABC9C>疏</font><font><b>傳「五尺以上曰駒」。</b></font>
 
-<font size=4 color=1ABC9C>疏</font><font><b>傳「五尺以上曰駒」。</b></font><font  size=4 color=1ABC9C>正義</font>曰：
+<font  size=4 color=1ABC9C>正義</font>曰：
 
 - 《廋人》云：「八尺以上為龍，七尺以上為騋，六尺以上為馬。」故上傳曰「六尺以上曰馬」。
 - 此駒以次差之，故知五尺以上也。五尺以上，即六尺以下，故《株林》箋云「六尺以下曰駒」是也。
 - 《輈人》注國馬謂種、戎、齊、道，高八尺。田馬高七尺，駑馬高六尺。即《廋人》三等龍、騋、馬是也。
 - 何休注《公羊》云 「七尺以上曰龍」不合《周禮》也。
 
-<font size=5 color=3498DB>漢之廣矣，不可泳思。江之永矣，不可方思。</font> 
+<font size=5 color=3498DB>漢之廣矣，不可泳思。江之永矣，不可方思。</font> ****
 
 <font size=5 color=3498DB>《漢廣》三章，章八句。</font>****
 
