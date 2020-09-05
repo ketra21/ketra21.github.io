@@ -17,9 +17,9 @@ tags:
 
 <font size=4 color=1ABC9C>疏</font><font color=黑体>黑体</font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
-<font size=4 color=1ABC9C>疏</font><b>b</b>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
+<font size=4 color=1ABC9C>疏</font><font><b>b</b></font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
-<font size=4 color=1ABC9C>疏</font><strong>黑体</strong>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
+<font size=4 color=1ABC9C>疏</font><font><strong>黑体</strong></font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
 <font size=4 color=1ABC9C>疏</font><font color=2c3e50>2c3e50</font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
@@ -31,7 +31,7 @@ tags:
 
 ## 体例
 
-1. 5由于古代的纸张贵重，古籍的排版十分紧凑，少有标点、分段等，千百年间形成了古籍版面特色。但这种【排版对于现代人来说，初读起来十分困难，严重打击学习古典文学的积极性。在此趁着学习《毛诗正义》的契机，对此书文字版面进行富文本处理，突出其结构次第，以便于阅读、查找。毛诗正义文本来源于[维基文库]([https://zh.m.wikisource.org/zh-hans/%E6%AF%9B%E8%A9%A9%E6%AD%A3%E7%BE%A9](https://zh.m.wikisource.org/zh-hans/毛詩正義))；
+1. 6由于古代的纸张贵重，古籍的排版十分紧凑，少有标点、分段等，千百年间形成了古籍版面特色。但这种【排版对于现代人来说，初读起来十分困难，严重打击学习古典文学的积极性。在此趁着学习《毛诗正义》的契机，对此书文字版面进行富文本处理，突出其结构次第，以便于阅读、查找。毛诗正义文本来源于[维基文库]([https://zh.m.wikisource.org/zh-hans/%E6%AF%9B%E8%A9%A9%E6%AD%A3%E7%BE%A9](https://zh.m.wikisource.org/zh-hans/毛詩正義))；
 2. 不同部分（经、传、笺、音义、疏）的颜色差异化显示；
    - 经部分为大字，<font size=5 color=3498DB>蓝色</font><br>
    - 传、笺、音义部分为<font size=4 color=9B59B6>紫色</font><br>
