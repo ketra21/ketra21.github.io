@@ -38,7 +38,7 @@ tags:
 
 <font size=5 color=3498DB>《兔罝》，后妃之化也。《關雎》之化行，則莫不好德，賢人眾多也。</font>  
 
-<font size=4 color=9B59B6><font size=4 color=1ABC9C>音义</font>（○菟罝，菟又作兔，他故反；罝音子斜反，《說文》子餘反。好，呼報反。）</font>  
+<font size=4 color=9B59B6><font size=4 color=1ABC9C>音义</font>（○菟罝，菟又作兔，他故反；罝音子斜反，《說文》子餘反。好，呼報反。）</font> </br> 
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 <font size=5 color=2980B9>肅肅兔罝，椓之丁丁。</font>  
 
-<font size=4 color=9B59B6><font size=4 color=1ABC9C>传</font>（肅肅，敬也。兔罝，兔罟也。丁丁，椓杙聲也。<font size=4 color=1ABC9C>箋</font>云：罝兔之人，鄙賤之事，猶能恭敬，則是賢者眾多也。<font size=4 color=1ABC9C>音义</font>○椓，陟角反。丁，陟耕反。罟音古，罔也。杙，本又作弋，羊職反，郭羊北反。《爾雅》云「枳謂之杙」，李巡云：「橛也。」枳音特。橛音其月反。）<br>dfa
+<font size=4 color=9B59B6><font size=4 color=1ABC9C>传</font>（肅肅，敬也。兔罝，兔罟也。丁丁，椓杙聲也。<font size=4 color=1ABC9C>箋</font>云：罝兔之人，鄙賤之事，猶能恭敬，則是賢者眾多也。<font size=4 color=1ABC9C>音义</font>○椓，陟角反。丁，陟耕反。罟音古，罔也。杙，本又作弋，羊職反，郭羊北反。《爾雅》云「枳謂之杙」，李巡云：「橛也。」枳音特。橛音其月反。）</font><br>dfa
 
 <font size=5 color=3498DB>赳赳武夫，公侯幹城。</font>  
 
