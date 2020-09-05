@@ -70,7 +70,6 @@ tags:
 
 <font size=5 color=3498DB>肅肅兔罝，施於中逵。</font></ br>
 
-
 <font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>逵，九達之道。<font size=4 color=1ABC9C>音义</font>○施，如字。逵，求龜反。杜預注《春秋》云：「塗方九軌。」）</font><br>
 
 
