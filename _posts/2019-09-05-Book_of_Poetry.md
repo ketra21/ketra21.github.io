@@ -11,7 +11,7 @@ tags:
 
 ---
 
-
+<font size=4 color=1ABC9C>疏</font><font>**傳「芣苡，馬舄」**</font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
 ## 目录
 
@@ -127,8 +127,9 @@ tags:
 
 <font size=4 color=9B59B6>（<font size=4 color=1ABC9C>传</font>采采，非一辭也。芣苡，馬舄。馬舄，車前也，宜懷任焉。薄，辭也。采，取也。<font size=4 color=1ABC9C>笺</font>云：薄言，我薄也。）</font><br>
 
-
 <font size=4 color=1ABC9C>疏</font>**傳「芣苡，馬舄」**。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
+
+<font size=4 color=1ABC9C>疏</font><font>**傳「芣苡，馬舄」**</font>。○<font  size=4 color=1ABC9C>正義</font>曰：《釋草》文也。
 
 - 郭璞曰：「今車前草大葉長穗，好生道邊。江東呼為蝦蟆衣。」
 - 陸機《疏》云：「馬舄，一名車前，一名當道，喜在牛跡中生，故曰車前、當道也。今藥中車前子是也。幽州人謂之牛舌草，可鬻作茹，大滑。其子治婦人難產。王肅引《周書·王會》云：『芣苡如李，出於西戎。』王基駮云：『《王會》所記雜物奇獸，皆四夷遠國各齎土地異物以為貢贄，非《周南》婦人所得采。』是芣苡為馬舄之草，非西戎之木也。」
